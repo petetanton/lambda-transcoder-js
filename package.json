@@ -1,0 +1,19 @@
+{
+  "name": "lambda-transcoder-js",
+  "version": "1.0.0",
+  "description": "An attempt at live video transcoding in AWS Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/petetanton/lambda-transcoder-js.git"
+  },
+  "author": "Pete Tanton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petetanton/lambda-transcoder-js/issues"
+  },
+  "homepage": "https://github.com/petetanton/lambda-transcoder-js#readme"
+}
